@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">cat_blue</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Auto Toy</string>
+    <string name="normal">normal</string>
+    <string name="random">random</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Cat Auto Toy</string>
+</resources>
